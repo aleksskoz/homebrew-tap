@@ -1,6 +1,6 @@
 cask "kubedrive" do
-  version "0.6.3"
-  sha256 "94ff78f97ab3a9324d1a95d3a6eefd480471e7812a2f29f6989a9ba2807b991f"
+  version "0.6.4"
+  sha256 "9186c0ccafec461a86f4cef760932a2a17d195b33f0a8ee44efca8408c0036f2"
 
   url "https://github.com/aleksskoz/kubedrive/releases/download/v#{version}/KubeDrive-#{version}.dmg"
   name "KubeDrive"
