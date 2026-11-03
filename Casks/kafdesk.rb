@@ -14,7 +14,7 @@ cask "kafdesk" do
   end
 
   auto_updates true
-  depends_on macos: :monterey
+  depends_on macos: :ventura
 
   app "KafDesk.app"
   binary "#{appdir}/KafDesk.app/Contents/MacOS/kafdesk-mcp"
