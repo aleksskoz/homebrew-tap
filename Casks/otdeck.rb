@@ -1,6 +1,6 @@
 cask "otdeck" do
-  version "0.4.0"
-  sha256 "d90f9d7febcfe334d28031e929204a26f810843ef8dde10a60c130f2811dbc8d"
+  version "0.5.0"
+  sha256 "f9537861f316930a60dbca1be494135931c5f0b58791743bc569bd6a049424dc"
 
   url "https://github.com/otdeck/releases/releases/download/v#{version}/OTDeck-#{version}.dmg",
       verified: "github.com/otdeck/releases/"
