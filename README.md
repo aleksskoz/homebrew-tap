@@ -1,6 +1,6 @@
 # aleksskoz/tap
 
-Homebrew casks for [KubeDrive](https://github.com/aleksskoz/kubedrive).
+Homebrew casks for [KubeDrive](https://github.com/kubedrive/kubedrive).
 
 ```sh
 brew install --cask aleksskoz/tap/kubedrive

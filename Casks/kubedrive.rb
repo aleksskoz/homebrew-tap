@@ -2,10 +2,10 @@ cask "kubedrive" do
   version "0.6.6"
   sha256 "a1c05d0e017842cecd2b087abfd8a273cd989fc6c9ade17f361ecbc11998e92c"
 
-  url "https://github.com/aleksskoz/kubedrive/releases/download/v#{version}/KubeDrive-#{version}.dmg"
+  url "https://github.com/kubedrive/kubedrive/releases/download/v#{version}/KubeDrive-#{version}.dmg"
   name "KubeDrive"
   desc "Desktop client for Kubernetes"
-  homepage "https://github.com/aleksskoz/kubedrive"
+  homepage "https://github.com/kubedrive/kubedrive"
 
   livecheck do
     url :url
