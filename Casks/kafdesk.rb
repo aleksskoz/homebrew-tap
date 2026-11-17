@@ -1,6 +1,6 @@
 cask "kafdesk" do
-  version "0.3.0"
-  sha256 "49e7796c202e7316264670253127970b261b600f69c7d442f45f1fc4bad8448a"
+  version "0.3.1"
+  sha256 "170320c1bc6733e3d2a4884128dc459da026672ab6cc352b674f4b1987252ba9"
 
   url "https://github.com/kafdesk/releases/releases/download/v#{version}/KafDesk-#{version}.dmg",
       verified: "github.com/kafdesk/releases/"
